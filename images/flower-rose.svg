@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g fill="#EDA5AE">
+    <circle cx="50" cy="26" r="17"/>
+    <circle cx="50" cy="26" r="17" transform="rotate(60 50 50)"/>
+    <circle cx="50" cy="26" r="17" transform="rotate(120 50 50)"/>
+    <circle cx="50" cy="26" r="17" transform="rotate(180 50 50)"/>
+    <circle cx="50" cy="26" r="17" transform="rotate(240 50 50)"/>
+    <circle cx="50" cy="26" r="17" transform="rotate(300 50 50)"/>
+  </g>
+  <circle cx="50" cy="50" r="13" fill="#FFF8F1"/>
+  <circle cx="50" cy="50" r="7" fill="#E8916B"/>
+</svg>
